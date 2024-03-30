@@ -1,0 +1,11 @@
+﻿  main.cpp
+E:\VS\code\RayTracing\Part1\main.cpp(143,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\VS\code\RayTracing\Part1\main.cpp(147,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\VS\code\RayTracing\Part1\main.cpp(245,13): warning C4305: “初始化”: 从“double”到“float”截断
+E:\VS\code\RayTracing\Part1\main.cpp(336,19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  28 of 150 functions (18.7%) were compiled, the rest were copied from previous compilation.
+    11 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Part1.vcxproj -> E:\VS\code\RayTracing\x64\Release\Part1.exe

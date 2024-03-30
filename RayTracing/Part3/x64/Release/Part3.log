@@ -1,0 +1,39 @@
+﻿  main2.cpp
+E:\VS\code\RayTracing\Part3\main2.cpp(109,43): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+E:\VS\code\RayTracing\Part3\main2.cpp(290,16): warning C4305: “初始化”: 从“double”到“float”截断
+E:\VS\code\RayTracing\Part3\main2.cpp(291,16): warning C4305: “初始化”: 从“double”到“float”截断
+E:\VS\code\RayTracing\Part3\main2.cpp(292,16): warning C4305: “初始化”: 从“double”到“float”截断
+E:\VS\code\RayTracing\Part3\main2.cpp(293,16): warning C4305: “初始化”: 从“double”到“float”截断
+E:\VS\code\RayTracing\Part3\main2.cpp(294,16): warning C4305: “初始化”: 从“double”到“float”截断
+E:\VS\code\RayTracing\Part3\main2.cpp(295,16): warning C4305: “初始化”: 从“double”到“float”截断
+E:\VS\code\RayTracing\Part3\main2.cpp(372,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\VS\code\RayTracing\Part3\main2.cpp(410,16): warning C4305: “初始化”: 从“double”到“float”截断
+E:\VS\code\RayTracing\Part3\main2.cpp(411,16): warning C4305: “初始化”: 从“double”到“float”截断
+E:\VS\code\RayTracing\Part3\main2.cpp(412,16): warning C4305: “初始化”: 从“double”到“float”截断
+E:\VS\code\RayTracing\Part3\main2.cpp(413,16): warning C4305: “初始化”: 从“double”到“float”截断
+E:\VS\code\RayTracing\Part3\main2.cpp(414,16): warning C4305: “初始化”: 从“double”到“float”截断
+E:\VS\code\RayTracing\Part3\main2.cpp(415,16): warning C4305: “初始化”: 从“double”到“float”截断
+E:\VS\code\RayTracing\Part3\main2.cpp(495,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\VS\code\RayTracing\Part3\main2.cpp(523,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\VS\code\RayTracing\Part3\main2.cpp(610,25): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\VS\code\RayTracing\Part3\main2.cpp(619,26): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\VS\code\RayTracing\Part3\main2.cpp(665,23): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\VS\code\RayTracing\Part3\main2.cpp(725,19): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+E:\VS\code\RayTracing\Part3\main2.cpp(727,19): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+E:\VS\code\RayTracing\Part3\main2.cpp(823,37): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+E:\VS\code\RayTracing\Part3\main2.cpp(824,34): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+E:\VS\code\RayTracing\Part3\main2.cpp(841,21): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+E:\VS\code\RayTracing\Part3\main2.cpp(871,18): warning C4305: “=”: 从“double”到“float”截断
+E:\VS\code\RayTracing\Part3\main2.cpp(880,19): warning C4305: “=”: 从“double”到“float”截断
+E:\VS\code\RayTracing\Part3\main2.cpp(881,18): warning C4305: “=”: 从“double”到“float”截断
+E:\VS\code\RayTracing\Part3\main2.cpp(896,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\VS\code\RayTracing\Part3\main2.cpp(907,59): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\VS\code\RayTracing\Part3\main2.cpp(908,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\VS\code\RayTracing\Part3\main2.cpp(988,82): warning C4267: “参数”: 从“size_t”转换到“GLint”，可能丢失数据
+E:\VS\code\RayTracing\Part3\main2.cpp(989,74): warning C4267: “参数”: 从“size_t”转换到“GLint”，可能丢失数据
+  正在生成代码
+  0 of 809 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Part3.vcxproj -> E:\VS\code\RayTracing\x64\Release\Part3.exe
