@@ -9,10 +9,7 @@ OpenGl实现Whitted-style光线追踪
 学习光线追踪，巩固图形学知识，熟悉锻炼OpenGl图形库
 主要实现在patr3中
 
-![image](https://github.com/quan224/Minecraft_Hello_World/blob/main/image/1.png)
-![image](https://github.com/quan224/Minecraft_Hello_World/blob/main/image/2.png)
-![image](https://github.com/quan224/Minecraft_Hello_World/blob/main/image/5.png)
-![image](https://github.com/quan224/Minecraft_Hello_World/blob/main/image/3.png)
-![image](https://github.com/quan224/Minecraft_Hello_World/blob/main/image/4.png)
-![image](https://github.com/quan224/Minecraft_Hello_World/blob/main/image/6.png)
-![image](https://github.com/quan224/Minecraft_Hello_World/blob/main/image/7.png)
+![image](https://github.com/quan224/RayTracing_Whitted-style/blob/main/image/1.png)
+![image](https://github.com/quan224/RayTracing_Whitted-style/blob/main/image/2.png)
+![image](https://github.com/quan224/RayTracing_Whitted-style/blob/main/image/3.png)
+![image](https://github.com/quan224/RayTracing_Whitted-style/blob/main/image/4.png)
